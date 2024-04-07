@@ -227,6 +227,11 @@ h1:hover {
         font-size: 60px;
     }
 
+    #smalltext{
+        font-size: 20px;
+        margin-top: 0px;
+    }
+
     #feeddes {
         font-size: 22px;
     }
